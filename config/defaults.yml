@@ -1,7 +1,7 @@
 ---
 cluster_name: "ec2-obs-otlp-testes"
 VPC_ID: "vpc-051721395ecf1f7aa"
-SUBNET_ID: "subnet-04dda6147dd9410f1"
+SUBNET_ID: "subnet-05d5b5e1ddfd856ca"
 instance_type: "m5.large"
 keypair: "platform_kp"
 volume_size: "30"
